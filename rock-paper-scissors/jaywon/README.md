@@ -1,0 +1,1 @@
+When opening the python file, I used my local path to read the input.txt file. Just replace the txt file with the input and replace the path with your local path. Run the terminal to calculate the score.
